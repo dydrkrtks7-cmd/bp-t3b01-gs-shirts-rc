@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>염창 코인노래방 위치 정보</title>
+  <rect width="64" height="64" rx="14" fill="hsl(336 57% 28%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(69 68% 63%)" opacity="0.16"/>
+  <g transform="rotate(90 32 32)"><path d="M12 26q10-10 20 0t20 0" fill="none" stroke="hsl(336 24% 96%)" stroke-width="6" stroke-linecap="round"/><path d="M12 40q10-10 20 0t20 0" fill="none" stroke="hsl(69 68% 63%)" stroke-width="6" stroke-linecap="round"/></g>
+</svg>
