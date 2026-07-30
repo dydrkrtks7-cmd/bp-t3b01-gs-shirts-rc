@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://yeomchang-coin-karaoke-note.hwagok-karaoke-insider.xyz/sitemap.xml
+Sitemap: https://yeomchang-coin-karaoke-note.hwagok-karaoke-insider.xyz/sitemap-pages.xml
